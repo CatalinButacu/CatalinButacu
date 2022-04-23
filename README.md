@@ -10,11 +10,14 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi visitor, I'm Cătălin!</h1>
 <h3 align="center">Formerly a student but passionate in programming</h3>
+<svg src="https://user-images.githubusercontent.com/77922144/164913000-326b3ba8-a792-4909-bf4b-f5d440bea001.svg"></svg>
 <br><br>
+
+
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 
- - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
+ - I'm trying to learn React, Python, C#, Shell and Java.
  
  - My hobby is reading books, listening music, playing games.
 
