@@ -53,8 +53,6 @@ You can click the Preview link to take a look at your changes.
   <kbd>
     <kbd>Apps</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd><br><br>
