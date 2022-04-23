@@ -92,10 +92,15 @@ You can click the Preview link to take a look at your changes.
   </kbd>
 </p>
 
+<!-- 
 <h2 align="center"><u>My Best Works</u></h2><br><br>
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
+
+-->
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Catalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CatalinButacu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
