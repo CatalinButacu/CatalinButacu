@@ -91,16 +91,13 @@ You can click the Preview link to take a look at your changes.
 <!-- <h2 align="center"><u>My Best Works</u></h2><br><br> -->
 
 <h2 align="center"><u>Profile Statistics</u></h2>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Catalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CatalinButacu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-<h2 align="center"><u>My Github Stats</u></h2>
+<img align="left" alt="Catalin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CatalinButacu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinButacu&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CatalinButacu&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CatalinButacu&theme=dracula">
-<img src="https://metrics.lecoq.io/CatalinButacu?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
 <img src="https://github-profile-trophy.vercel.app/?username=CatalinButacu&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p><br><br>
 
