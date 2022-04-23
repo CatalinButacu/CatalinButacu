@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
  - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
 
+ - Check out my [Resume](https://github.com/CatalinButacu/CatalinButacu/files/8547476/CV.-.Butacu.Ionel.Catalin.pdf)
+
 </p>
 <br><br>
 <h2 align="center"><u>Technologies</u></h2>
@@ -110,4 +112,4 @@ You can click the Preview link to take a look at your changes.
 
 ------
 
-Last Edited on: 23/04/2022
+Last Edited on: 04/23/2022
