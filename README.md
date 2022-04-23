@@ -8,7 +8,7 @@ CatalinButacu/CatalinButacu is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi visitor, I'm Catalin!</h1>
+<h1 align="center">Hi visitor, I'm Cătălin!</h1>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <br><br>
 <h2 align="center"><u>Personal Details</u></h2>
@@ -91,8 +91,8 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
- <summary><b>💥 Github Activity</b></summary>
-
+ <summary><b>💥 Github Activity</b></summary> 
+ <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=CatalinButacu&custom_title=SubhadeepZilong%27s%20Contribution%20Graph&theme=react-dark"/></p>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
