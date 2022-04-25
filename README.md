@@ -9,10 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi visitor, I'm Cătălin!</h1>
-<h3 align="center">Formerly a student but passionate in programming</h3>
-<svg src="https://user-images.githubusercontent.com/77922144/164913000-326b3ba8-a792-4909-bf4b-f5d440bea001.svg"></svg>
+![Formerly a student, but passionate in programming](https://user-images.githubusercontent.com/77922144/164965463-b0e2bf2c-40ab-47fa-ad9c-8c44d20d74fc.svg)
++
 <br><br>
-
 
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
@@ -55,8 +54,9 @@ You can click the Preview link to take a look at your changes.
   <br>
   <kbd>
     <kbd>Apps</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd><br><br>
@@ -109,9 +109,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/CatalinButacu" target="_blank"><img src="https://img.shields.io/badge/Github-Catalin-green?style=for-the-badge&logo=github"></a>
 <a href="https://facebook.com/ButacuCatalin19" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Catalin-purple?style=for-the-badge&logo=facebook"></a>
-<a href="https://m.me/ButacuCatalin19" target="_blank"><img src="https://img.shields.io/badge/Messenger-Catalin-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.linkedin.com/in/c%C4%83t%C4%83lin-butacu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Catalin-red?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:catalin.butacu@bestis.ro" target="_blank"><img src="https://img.shields.io/badge/Email-catalin.butacu@bestis.ro-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
 
-Last Edited on: 04/23/2022
+Last Edited on: 04/24/2022
