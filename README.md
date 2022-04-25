@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi visitor, I'm Cătălin!</h1>
-![Formerly a student, but passionate in programming](https://user-images.githubusercontent.com/77922144/164965463-b0e2bf2c-40ab-47fa-ad9c-8c44d20d74fc.svg)
-+
+<!-- ![Formerly a student, but passionate in programming](https://user-images.githubusercontent.com/77922144/164965463-b0e2bf2c-40ab-47fa-ad9c-8c44d20d74fc.svg)
+-->
 <br><br>
 
 <h2 align="center"><u>Personal Details</u></h2>
