@@ -113,8 +113,8 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:catalin.butacu@bestis.ro" target="_blank"><img src="https://img.shields.io/badge/Email-catalin.butacu@bestis.ro-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
-<strong><u>FUN</u></strong>
-<p>Russian roulette: 
-<code>[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*</code></p><br>
+>
+><strong><u>FUN</u></strong>
+><p>Russian roulette: <code>[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*</code></p><br>
 
 Last Edited on: 04/24/2022
