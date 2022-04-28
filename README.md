@@ -9,24 +9,25 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi visitor, I'm Cătălin!</h1>
-<!-- ![Formerly a student, but passionate in programming](https://user-images.githubusercontent.com/77922144/164965463-b0e2bf2c-40ab-47fa-ad9c-8c44d20d74fc.svg)
--->
+<img src="https://user-images.githubusercontent.com/77922144/165688795-9630989c-6bff-4756-9d73-c8d031f1fd8e.svg"/>
 <br><br>
 
 <h2 align="center"><u>Personal Details</u></h2>
 <p align="center">
 
- - I'm trying to learn React, Python, C#, Shell and Java.
+ - 👨‍🏛 I am currently a sophomore student at **The Tehnical University of Iasi, Romania**.
+ 
+ - 💻 My major is **Automatic Control and Applied Computer Science**.
+ 
+ - 🌱 I'm currently learning **Web development and others stuffs**.
+ 
+ - I like to use a variety of useful **computer software** and build  **beautiful projects.**
  
  - My hobby is reading books, listening music, playing games.
 
- - Sometimes, I write small poems, stories too.
- 
  - I love to collect apps, games, movies, songs, fonts, iso etc.
 
- - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
-
- - Check out my [Resume](https://github.com/CatalinButacu/CatalinButacu/files/8547476/CV.-.Butacu.Ionel.Catalin.pdf)
+ - Check out my [Resume](https://github.com/CatalinButacu/CatalinButacu/files/8572104/CV.-.Butacu.Ionel.Catalin.pdf)
 
 </p>
 <br><br>
@@ -104,7 +105,6 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 </p><br><br>
-
 ### Contact me:
 
 <a href="https://github.com/CatalinButacu" target="_blank"><img src="https://img.shields.io/badge/Github-Catalin-green?style=for-the-badge&logo=github"></a>
@@ -113,5 +113,8 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:catalin.butacu@bestis.ro" target="_blank"><img src="https://img.shields.io/badge/Email-catalin.butacu@bestis.ro-teal?style=for-the-badge&logo=gmail"></a>
 
 ------
+<strong><u>FUN</u></strong>
+<p>Russian roulette: 
+<code>[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*</code></p>
 
 Last Edited on: 04/24/2022
