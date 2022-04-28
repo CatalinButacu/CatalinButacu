@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 
 ------
 >
-><strong><u>FUN</u></strong>
+><strong><u>FUN ACTIVITY</u></strong>
 ><p>Russian roulette: <code>[ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*</code></p><br>
 
 Last Edited on: 04/24/2022
