@@ -5,13 +5,13 @@
 <h2 align="center"><u>About Me</u></h2>
 <p align="center">
 
- - 👨‍🎓 Currently pursuing a **Master's degree in Artificial Intelligence** at Technical University of Iași
+ - 👨‍🎓 Completing the final year of my **Master’s degree in Artificial Intelligence** at the Technical University of Iași
  
  - 🎓 Graduate of **Automatic Control and Applied Computer Science**
  
  - 💼 Software Engineer at **Gemini CAD Systems** since 2022
  
- - 🌟 Active volunteer at <a href="https://bestis.ro/">**BEST Iași**</a> from 2020-2024, now an alumnus
+ - 🌟 Active volunteer at <a href="https://bestis.ro/">**BEST Iași**</a> from 2020-2024, and alumnus since then
  
  - 🌱 Passionate about exploring **new technologies** and working on **innovative projects**
  
@@ -41,14 +41,14 @@
   </kbd>
   <kbd>
     <kbd>Cloud, CI/CD & DevOps</kbd><br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   </kbd>
-  <br>
+  <br><br><br>
   <kbd>
     <kbd>AI/ML</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />
