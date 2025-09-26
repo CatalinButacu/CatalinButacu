@@ -17,7 +17,7 @@
  
  - 💡 Love collaborating with vibrant minds and building impactful solutions
 
- - 📄 <a href="https://github.com/CatalinButacu/CV-Builder/releases/latest/download/resume.pdf" target="_blank">Check out my resume (PDF)</a>
+ - 📄 Check out my <a href="https://github.com/CatalinButacu/CV-Builder/releases/latest/download/CV_Butacu%20Ionel-Catalin.pdf" target="_blank">resume (PDF)</a>
 
 </p>
 <br>
